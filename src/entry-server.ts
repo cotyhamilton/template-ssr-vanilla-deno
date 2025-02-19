@@ -4,7 +4,7 @@ import typescriptLogo from "./typescript.svg";
 export function render(_url: string) {
   const content = html`
     <div>
-    <img src="/vite-deno.svg" alt="Vite with Deno" />
+      <img src="/vite-deno.svg" alt="Vite with Deno" />
       <a href="https://vite.dev" target="_blank">
         <img src="/vite.svg" class="logo" alt="Vite logo" />
       </a>
