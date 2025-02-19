@@ -34,3 +34,4 @@ jobs:
         with:
           project: "hono-vite-ssr"
           entrypoint: "server.ts"
+          root: "."
